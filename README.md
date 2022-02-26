@@ -7,3 +7,4 @@ Edited the Readme
 
 ##Added new branch
 Text branch
+Additional text
