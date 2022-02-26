@@ -9,3 +9,15 @@ DP3103/DP3103 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 Change in main read me
+# LearnGIT
+Repo to Learn GIT
+
+##Subheader
+
+Edited the Readme
+
+##Added new branch
+Text branch
+Additional text
+
+https://www.youtube.com/watch?v=RGOj5yH7evk
